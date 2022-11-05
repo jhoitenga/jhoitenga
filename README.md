@@ -1,20 +1,28 @@
-### Hey, I am Jennifer Hoitenga. <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="50">
+<h1>Hi, I am Jennifer Hoitenga. <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="50"></h1>
+<p>I am a student at Bellevue University working towards a Bachelor's degree in web development.</p>
+<ul><li>😄 My Pronouns: She/Her/Hers</li>
+  <li>📫 How to reach me: jhoitenga@gmail.com</li></ul></p>
 
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-As a student at Bellevue University, I am enrolled in the Web Development program and am currently taking Web 200 and Web 201. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-
-<br/>
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>I am working towards a Full Stack Web Development degree.</b>
+- I am working towards a Full Stack Web Development degree.
 
-<br/>
-<br/>
-<br/>
+<h2>Current Languages</h2>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></p>
 
-📈 My GitHub Stats:
+<details>
+  
+<summary>
+  📈 My GitHub Stats:
+</summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jhoitenga&show_icons=true&theme=material-palenight" alt="jhoitenga" />
 <br/>
 <br/>
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjhoitenga"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjhoitenga&countColor=%23697689&style=plastic" /></a>
+
+
+</details>
