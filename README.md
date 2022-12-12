@@ -1,5 +1,6 @@
 <head><meta name="google-site-verification" content="KPXGqtLuc0kMeEg_6Wd18Cqw7S42FuiN0-Jou2kWDRM" /></head>
 
+<body>
 <h1>Hi, I'm Jennifer. <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="60"></h1>
 <p>I am a student at Bellevue University working towards a Bachelor's degree in web development.</p>
 <ul>
@@ -29,3 +30,5 @@
 
 
 </details>
+  
+</body>
