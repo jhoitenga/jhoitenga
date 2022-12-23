@@ -27,10 +27,6 @@
   📈 My GitHub Stats:
 </summary>
 <br/>
-<img src="https://github-readme-stats-sage-gamma-12.vercel.app/api?username=jhoitenga&show_icons=true&theme=material-palenight" alt="jhoitenga" />
-<br/>
-<br/>
-
 [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 <br/>
   
