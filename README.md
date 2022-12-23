@@ -34,8 +34,6 @@
 [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 <br/>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoitenga)
-
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjhoitenga"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjhoitenga&countColor=%23697689&style=plastic" /></a>
 
 
