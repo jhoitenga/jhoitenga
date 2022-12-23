@@ -35,6 +35,6 @@
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjhoitenga"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjhoitenga&countColor=%23697689&style=plastic" /></a>
 
-
+ <a href="https://jhoitenga.wrapped.run"><b>GitHub Wrapped</b></a>
 
 </details>
