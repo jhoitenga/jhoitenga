@@ -12,7 +12,6 @@
   <li>😄 𝙼𝚢 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: 𝚂𝚑𝚎/𝙷𝚎𝚛/𝙷𝚎𝚛𝚜</li>
   <li>📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <a href="mailto:jhoitenga@gmail.com">𝚂𝚎𝚗𝚍 𝙴𝚖𝚊𝚒𝚕</a></li>
 </ul>
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 
 <br/>
 <h2>👨‍💻 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚂𝚝𝚊𝚌𝚔:</h2>
