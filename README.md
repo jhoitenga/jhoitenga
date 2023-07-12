@@ -9,8 +9,8 @@
 <h1>𝙷𝚒, 𝙸'𝚖 𝙹𝚎𝚗𝚗𝚒𝚏𝚎𝚛 <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="60"></h1>
 <p>𝙸 𝚊𝚖 𝚊 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 𝙱𝚎𝚕𝚕𝚎𝚟𝚞𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚝𝚘𝚠𝚊𝚛𝚍𝚜 𝚊 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝚍𝚎𝚐𝚛𝚎𝚎 𝚒𝚗 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.</p>
 <ul>
-  <li>😄 𝙼𝚢 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: 𝚂𝚑𝚎/𝙷𝚎𝚛/𝙷𝚎𝚛𝚜</li>
-  <li>📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <a href="mailto:jhoitenga@gmail.com">𝚂𝚎𝚗𝚍 𝙴𝚖𝚊𝚒𝚕</a></li>
+  <li>😄 𝙼𝚢 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: 𝚂𝚑𝚎 / 𝙷𝚎𝚛 / 𝙷𝚎𝚛𝚜</li>
+  <li>📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <a href="mailto:jahoitenga@gmail.com">𝚂𝚎𝚗𝚍 𝙴𝚖𝚊𝚒𝚕</a></li>
 </ul>
 
 <br/>
