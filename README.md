@@ -32,10 +32,7 @@
 [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 <br/>
 
-
-
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjhoitenga"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjhoitenga&countColor=%23697689&style=plastic" /></a>
 
- 𝙻𝚒𝚗𝚔 𝚝𝚘 <a href="https://jhoitenga.wrapped.run" target="_blank"><b>𝙶𝚒𝚝𝙷𝚞𝚋 𝚆𝚛𝚊𝚙𝚙𝚎𝚍</b></a>
 
 </details>
